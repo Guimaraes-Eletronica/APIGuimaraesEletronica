@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {}
+    "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {
+    "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
         "projectName": "apiGuimaraesEletronica",
-        "projectPath": "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
-        "packagesPath": "C:\\Users\\sonia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\obj\\",
+        "projectPath": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sonia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -36,6 +38,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "(, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
@@ -59,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
