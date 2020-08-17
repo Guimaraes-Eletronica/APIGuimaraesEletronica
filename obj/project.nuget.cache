@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1EFAkQEs9vZzqXekUWWCg+fBaMfSjRuMX+jro0MUuo4eSJ2n2pyekHbLG02+ytDnpn3M9rDmLMT7uILCH6/VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
