@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\jonat\\meu-site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+  "FilePath": "c:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica-v1\\ApiGuimaraesEletronica-v1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14183,7 +14183,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "apiGuimaraesEletronica",
+  "RootNamespace": "ApiGuimaraesEletronica_v1",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
