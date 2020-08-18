@@ -4,11 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace apiGuimaraesEletronica.Controllers
 {
-<<<<<<< HEAD
     [Route("api/products")]
-=======
-    [Route("products")]
->>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
     public class ProductsController : Controller
     {
         ProductRepository _productRepository;
