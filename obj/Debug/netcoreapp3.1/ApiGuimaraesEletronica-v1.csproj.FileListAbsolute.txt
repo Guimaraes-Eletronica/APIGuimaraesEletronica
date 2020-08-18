@@ -1,0 +1,12 @@
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\bin\Debug\netcoreapp3.1\ApiGuimaraesEletronica-v1.exe
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\ApiGuimaraesEletronica-v1.csprojAssemblyReference.cache
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\ApiGuimaraesEletronica-v1.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\ApiGuimaraesEletronica-v1.AssemblyInfo.cs
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\ApiGuimaraesEletronica-v1.RazorTargetAssemblyInfo.cache
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\staticwebassets\ApiGuimaraesEletronica-v1.StaticWebAssets.Manifest.cache
+C:\Users\jonat\source\repos\ApiGuimaraesEletronica-v1\obj\Debug\netcoreapp3.1\staticwebassets\ApiGuimaraesEletronica-v1.StaticWebAssets.xml
