@@ -7,7 +7,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace apiGuimaraesEletronica.Controllers
 {
+<<<<<<< HEAD
     [Route("api/cart")]
+=======
+    [Route("cart")]
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
     public class CartController : Controller
     {
         private CartRepository _cartRepository;

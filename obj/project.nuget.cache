@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "GCVqA7dYGAjbAIR4PdgAZlUo1ZPUvImyt1jIY0QHLaXp9ACphII5G4XRAr+56nv5qkBXfBKJC/NRPevvaPvqKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica.csproj",
@@ -180,6 +181,13 @@
     "C:\\Users\\jonat\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+=======
+  "dgSpecHash": "R1EFAkQEs9vZzqXekUWWCg+fBaMfSjRuMX+jro0MUuo4eSJ2n2pyekHbLG02+ytDnpn3M9rDmLMT7uILCH6/VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sonia\\meu site\\apiGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
   ],
   "logs": []
 }

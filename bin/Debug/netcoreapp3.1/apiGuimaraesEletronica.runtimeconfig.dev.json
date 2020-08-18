@@ -1,9 +1,14 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\jonat\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\jonat\\.nuget\\packages",
       "C:\\Microsoft\\Xamarin\\NuGet"
+=======
+      "C:\\Users\\sonia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sonia\\.nuget\\packages"
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
     ]
   }
 }

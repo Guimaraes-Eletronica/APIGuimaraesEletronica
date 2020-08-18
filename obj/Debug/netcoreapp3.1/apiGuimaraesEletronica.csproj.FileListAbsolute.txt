@@ -20,6 +20,7 @@ C:\Users\sonia\meu site\apiGuimaraesEletronica\obj\Debug\netcoreapp3.1\apiGuimar
 C:\Users\sonia\meu site\apiGuimaraesEletronica\obj\Debug\netcoreapp3.1\apiGuimaraesEletronica.genruntimeconfig.cache
 C:\Users\sonia\meu site\apiGuimaraesEletronica\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\sonia\meu site\apiGuimaraesEletronica\obj\Debug\netcoreapp3.1\apiGuimaraesEletronica.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -167,3 +168,5 @@ C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\obj\De
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\obj\Debug\netcoreapp3.1\ApiGuimaraesEletronica.genruntimeconfig.cache
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
 C:\Users\jonat\source\repos\ApiGuimaraesEletronica\ApiGuimaraesEletronica\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+=======
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195

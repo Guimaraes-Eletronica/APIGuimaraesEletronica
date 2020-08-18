@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica.csproj": {}
+    "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica.csproj": {
+    "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica.csproj",
-        "projectName": "ApiGuimaraesEletronica",
-        "projectPath": "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
+        "projectName": "apiGuimaraesEletronica",
+        "projectPath": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\apiGuimaraesEletronica.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\source\\repos\\ApiGuimaraesEletronica\\ApiGuimaraesEletronica\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\meu site\\APIGuimaraesEletronica\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -42,23 +38,15 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.7, )"
             },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
             "MySql.Data.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.21, )"
+              "version": "(, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -83,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

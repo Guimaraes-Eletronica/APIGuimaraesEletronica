@@ -4,7 +4,11 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
+<<<<<<< HEAD
       "applicationUrl": "http://localhost:40556",
+=======
+      "applicationUrl": "http://127.0.0.1:40556",
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
       "sslPort": 44335
     }
   },
@@ -21,7 +25,11 @@
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
+<<<<<<< HEAD
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
+=======
+      "applicationUrl": "https://127.0.0.1:5001;http://127.0.0.1:5000",
+>>>>>>> 03a228cfef98da2014f5c32b81d78af9b4c45195
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
